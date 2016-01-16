@@ -21,7 +21,7 @@ As well, install the Arduino IDE to push ThermIS_Microcontroller to your Arduino
 
 ## Usage
 
-Run the OpenCV application with the Arduino attached. Calibrate the IR sensor by following clicking on the laser at the predetermined points. My setup looked as folows:
+Run the OpenCV application with the Arduino attached. Calibrate the IR sensor by following on screen and clicking on the laser at the predetermined points. My setup looked as folows:
 
 ![ThermIS Setup](media/setup.jpg)
 
