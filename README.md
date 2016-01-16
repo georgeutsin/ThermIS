@@ -1,5 +1,7 @@
 # ![ThermIS](media/promo.png)
 
+*Science Fair project that received Gold at Waterloo Regional Science Fair and Silver at Canada Wide Science Fair*
+
 ThermIS is an automated system to detect symptoms of viral infections. ThermIS passively and non-intrusively detects whether or not an individual is a possible carrier during an influenza outbreak, given that fever is a common symptom of many viruses and infections. This system can be useful in optimizing airport security, with potential applications in medicine as well.
 
 ![ThermIS Program Flow](media/flow.png)
